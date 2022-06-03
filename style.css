@@ -421,6 +421,10 @@ ul li a.active,ul li a:hover{
 		margin: 0 auto;
         float: none;
 	}
+	
+	.fa-bars{
+		font-size: 50px;
+	}
 
   
  	
